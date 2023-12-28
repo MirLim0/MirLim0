@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/StanGirard/StanGirard/master/stangirard-logo.png "Header")](https://primates.dev/)
-
 # Hey guys! <img src="https://raw.githubusercontent.com/MirLim0/MirLim0/master/wave.gif" width="30px">
 
 My name is Mir Lim and the Founder of SnapVault. from Korea, living in Seoul.
